@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Customer Online Journey
     Customer[Customer Places BOPIS Order Online] --> Ecom[E-Commerce Platform]
