@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     CUSTOMER ||--o{ WEB_ORDER : "places"
     WEB_ORDER ||--|| INVENTORY : "reserves"
